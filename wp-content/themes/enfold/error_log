@@ -1,0 +1,2 @@
+[22-Oct-2013 15:16:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/arganenl/public_html/wp-content/themes/enfold/index.php on line 9
+[27-Oct-2013 17:12:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/arganenl/public_html/wp-content/themes/enfold/index.php on line 9

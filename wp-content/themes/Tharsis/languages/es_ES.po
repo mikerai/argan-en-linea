@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tharsis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-21 18:16-0600\n"
+"PO-Revision-Date: 2013-10-21 18:16-0600\n"
+"Last-Translator: \n"
+"Language-Team: Cristi Macovei <cristi@teothemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;esc_attr;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Bookmarks: -1,10,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../category.php:30 ../page-template-blog.php:65 ../single.php:16
+msgid "Posted on"
+msgstr "Publicado el "
+
+#: ../category.php:32 ../page-template-blog.php:69 ../single.php:19
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../category.php:32 ../page-template-blog.php:69 ../single.php:19
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../category.php:32 ../page-template-blog.php:69 ../single.php:19
+msgid "comments"
+msgstr "comentarios"
+
+#: ../footer.php:2
+msgid "All Rights Reserved"
+msgstr "Todos los derechos reservados"
+
+#: ../footer.php:3
+msgid "designed by"
+msgstr "diseñado por"
+
+#: ../index.php:21
+msgid "Name: "
+msgstr "Nombre: "
+
+#: ../index.php:22
+msgid "E-mail: "
+msgstr "E-mail:"
+
+#: ../index.php:23
+msgid "Message: "
+msgstr "Mensaje: "
+
+#: ../index.php:87 ../teoPanel/custom-functions.php:27
+msgid "Contact"
+msgstr "Contacto"
+
+#: ../index.php:104
+msgid "<b>Thank you!</b> We have received your message."
+msgstr "<b>Gracias!</b> Hemos recibido tu mensaje"
+
+#: ../index.php:108
+msgid "name"
+msgstr "nombre"
+
+#: ../index.php:111
+msgid "email"
+msgstr "email"
+
+#: ../index.php:114
+msgid "message"
+msgstr "mensaje"
+
+#: ../index.php:117
+msgid "send"
+msgstr "enviar"
+
+#: ../index.php:126
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+#: ../single.php:23
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../single.php:25
+msgid "Tags: "
+msgstr "Etiquetas: "
+
+#: ../teoPanel/custom-functions.php:20
+msgid "Home"
+msgstr "Inicio"
+
+#: ../teoPanel/custom-functions.php:26
+msgid "Blog"
+msgstr "Blog"
+
+#, fuzzy
+#~ msgid "powered by"
+#~ msgstr "Powered by"

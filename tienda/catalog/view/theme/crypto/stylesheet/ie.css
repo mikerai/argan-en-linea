@@ -1,0 +1,29 @@
+/*--------------------------------------------------------------------------/
+* @Author		LatestThemes.com http://www.LatestThemes.com
+* @Copyright	Copyright (C) 2013 LatestThemes.com. All rights reserved.
+* @License		LatestThemes.com Proprietary License
+/---------------------------------------------------------------------------*/
+
+/* input */
+input {
+	position: static;
+	overflow: visible;
+	vertical-align: middle;
+}
+input[type*="radio"],
+input[type*="checkbox"] {
+	border: none;
+	outline: none;
+	background: none;
+}
+.tab-content {
+	width: 100%;
+}
+/* products grid */
+table.list tbody td.quantity input {
+	vertical-align: top;
+}
+
+.count_holder_small .countdown_section {
+background-color: #111;
+}

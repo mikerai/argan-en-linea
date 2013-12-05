@@ -1,0 +1,1 @@
+[23-Oct-2013 08:02:56 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/arganenl/public_html/wp-content/themes/enfold/config-layerslider/config.php on line 108

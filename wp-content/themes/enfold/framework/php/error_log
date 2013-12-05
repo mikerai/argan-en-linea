@@ -1,0 +1,4 @@
+[23-Oct-2013 03:45:48 UTC] PHP Fatal error:  Call to undefined function __() in /home/arganenl/public_html/wp-content/themes/enfold/framework/php/class-tgm-plugin-activation.php on line 164
+[23-Oct-2013 03:47:51 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/arganenl/public_html/wp-content/themes/enfold/framework/php/inc-autoconfig.php on line 23
+[23-Oct-2013 04:27:34 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/import.php): failed to open stream: No such file or directory in /home/arganenl/public_html/wp-content/themes/enfold/framework/php/inc-avia-importer.php on line 8
+[23-Oct-2013 04:27:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/import.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/arganenl/public_html/wp-content/themes/enfold/framework/php/inc-avia-importer.php on line 8
