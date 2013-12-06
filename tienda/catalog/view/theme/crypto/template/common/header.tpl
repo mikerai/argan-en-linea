@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width,initial-scale=1.0" />
         <title>Tienda Argán en línea</title>
         <base href="<?php echo $base; ?>" />
-        <meta name="keywords" content="aceite de argan, argania gold, aceite, argan, argán, argania, gold, salud, belleza, puro, nutricion, tienda, online, comprar, vender, oil" />
+        <meta name="keywords" content="aceite de argan, argania gold, comprar aceite de argan, aceite, argan, argán, argania, gold, salud, belleza, puro, nutricion, tienda, online, comprar, vender, oil" />
 
 	<meta name="description" content="Te damos la bienvenida. Sabemos que te gusta sentirte bien. Conoce lo que los productos de nuestras líneas pueden hacer por ti. Aceite de argán 100% puro." />
         
